@@ -1,5 +1,5 @@
 # NLW eSports 
-![devemyle] (./.github/devemyle.png)
+![preview](./.github/preview.png)
 
 - Trilha Explorer
 
